@@ -1,0 +1,31 @@
+/*    Earth's Paragraph   */
+#earth-background-color 
+	{background-color:Lightblue;}
+#earth-header-font-color
+	{color: blue;}
+.earth-body-font-color
+	{color: green;}
+
+/*    Mars Paragraph      */
+#mars-background-color 
+	{background-color:mistyrose;}
+#mars-header-font-color
+	{color: darkred;}
+.mars-body-font-color
+	{color: maroon;}
+
+	
+/*    Jupiter' Paragraph      */
+#jupiter-background-color 
+	{background-color:Khaki;}
+#jupiter-header-font-color
+	{color: green;}
+.jupiter-body-font-color
+	{color: saddlebrown;}
+
+
+
+
+
+
+
