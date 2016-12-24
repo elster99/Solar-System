@@ -1,31 +1,64 @@
-/*    Earth's Paragraph   */
-#earth-background-color 
-	{background-color:Lightblue;}
-#earth-header-font-color
-	{color: blue;}
-.earth-body-font-color
-	{color: green;}
+/*   Solar System's Paragraph   */
+		#SolarSystem-background-color 
+			{background-color:Lightblue;}
+		#SolarSystem-header-font-color
+			{color: blue;}
+		.SolarSystem-body-font-color
+			{color: green;}
 
-/*    Mars Paragraph      */
-#mars-background-color 
-	{background-color:mistyrose;}
-#mars-header-font-color
-	{color: darkred;}
-.mars-body-font-color
-	{color: maroon;}
+/*   Mercury's Paragraph      */
+		#Mercury-background-color 
+			{background-color:Khaki;}
+		#Mercury-header-font-color
+			{color: green;}
+		.Mercury-body-font-color
+			{color: saddlebrown;}
+			
+/*   Venus's Paragraph   */
+		#Venus-background-color 
+			{background-color:Lightblue;}
+		#Venus-header-font-color
+			{color: blue;}
+		.Venus-body-font-color
+			{color: green;}
 
+/*   Earth's Paragraph   */
+		#earth-background-color 
+			{background-color:Lightblue;}
+		#earth-header-font-color
+			{color: blue;}
+		.earth-body-font-color
+			{color: green;}
+
+/*   Mars Paragraph      */
+		#mars-background-color 
+			{background-color:mistyrose;}
+		#mars-header-font-color
+			{color: darkred;}
+		.mars-body-font-color
+			{color: maroon;}
+
+/*   Saturn's Paragraph      */
+		#Saturn-background-color 
+			{background-color:mistyrose;}
+		#Saturn-header-font-color
+			{color: darkred;}
+		.Saturn-body-font-color
+			{color: maroon;}
 	
-/*    Jupiter' Paragraph      */
-#jupiter-background-color 
-	{background-color:Khaki;}
-#jupiter-header-font-color
-	{color: green;}
-.jupiter-body-font-color
-	{color: saddlebrown;}
-
-
-
-
-
-
+/*   Uranus's Paragraph      */
+		#Uranus-background-color 
+			{background-color:Khaki;}
+		#Uranus-header-font-color
+			{color: green;}
+		.Uranus-body-font-color
+			{color: saddlebrown;}
+			
+/*   Neptune's Paragraph   */
+		#Neptune-background-color 
+			{background-color:Lightblue;}
+		#Neptune-header-font-color
+			{color: blue;}
+		.Neptune-body-font-color
+			{color: green;}
 
